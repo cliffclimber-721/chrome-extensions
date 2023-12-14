@@ -1,0 +1,9 @@
+{
+    "name": "What I have to do",
+    "description": "Base Level Extension",
+    "version": "0.1",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "checklist.html"
+    }
+  }
